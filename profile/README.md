@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# We are an Open-Source data NGO.
 <!--
 
 **Here are some ideas to get you started:**
